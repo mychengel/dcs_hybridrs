@@ -116,7 +116,7 @@ class HybridRecommender:
         )
 
         # ── 6. Hybrid score ────────────────────────────────────────────
-        hybrid_arr = a * layer12 + b * ba_arr
+        hybrid_arr = (a * cbf_arr) + (b * ba_arr)
 
         # ── 7. Build result list ───────────────────────────────────────
         cart_pid_set = set(cart_pids)
@@ -141,7 +141,7 @@ class HybridRecommender:
                     "scores": {
                         "layer1_ncf":            round(float(ncf_arr[i]), 4),
                         "layer2_cbf":            round(float(cbf_arr[i]), 4),
-                        "layer12_combined":      round(float(layer12[i]), 4),
+                        "layer12_combined":      round(float(cbf_arr[i]), 4),
                         "layer3_bayesian_raw":   round(float(ba_arr[i] * 5), 4),
                         "layer3_bayesian_norm":  round(float(ba_arr[i]), 4),
                         "hybrid_score":          round(float(hybrid_arr[i]), 4),
