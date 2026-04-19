@@ -1,0 +1,97 @@
+ProductId,ProductName,Variant,Category,Price,Description
+1,Add on Aren,-,Add on,0,"Tambahan sirup gula aren murni, memberikan rasa manis karamel alami khas Indonesia"
+2,Add on Simple Syrup,-,Add on,0,Tambahan sirup gula sederhana (air dan gula) sebagai pemanis dasar untuk semua minuman
+3,Air Mineral,-,Other,5000,Air minum murni dalam kemasan
+4,Americano,Hot Houseblend,Coffee,20000,"Minuman kopi hitam yang dibuat dengan menambahkan air panas ke shot espresso, menggunakan pilihan biji Houseblend (perpaduan robusta dan arabica)"
+5,Americano,Ice Houesblend,Coffee,20000,"Minuman kopi hitam yang dibuat dengan menambahkan air dingin dan es batu ke shot espresso, menggunakan pilihan biji Houseblend (perpaduan robusta dan arabica)"
+6,Americano,Hot Arabica,Coffee,20000,"Minuman kopi hitam yang dibuat dengan menambahkan air panas ke shot espresso, menggunakan pilihan biji Arabica 100%"
+7,Americano,Ice Arabica,Coffee,20000,"Minuman kopi hitam yang dibuat dengan menambahkan air dingin dan es batu ke shot espresso, menggunakan pilihan biji Arabica 100%"
+8,Apple Pie Latte,-,Coffee,24000,"Minuman latte dengan perpaduan espresso, susu, dan sirup rasa apel pie yang manis, memberikan sensasi seperti memakan pie apel dalam bentuk minuman"
+9,Apple Pie Latte (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari latte dengan perpaduan espresso, susu, dan sirup rasa apel pie yang manis, memberikan sensasi seperti memakan pie apel dalam bentuk minuman"
+10,BLACK,-,Menu Gedhe,20000,"Minuman kopi hitam murni dalam ukuran besar, diseduh dengan metode pour-over atau french press untuk mengekstrak rasa lengkap dari biji kopi blend yang seimbang"
+11,BLACK,Houseblend,Menu Gedhe,20000,"Minuman kopi hitam murni dalam ukuran besar, diseduh dengan metode pour-over atau french press untuk mengekstrak rasa lengkap dari karakteristik biji Houseblend yang balanced dan nutty"
+12,BLACK,Arabica,Menu Gedhe,20000,"Minuman kopi hitam murni dalam ukuran besar, diseduh dengan metode pour-over atau french press untuk mengekstrak rasa lengkap dari karakteristik biji Arabica yang acidic, fruity, dan kompleks"
+13,Banana Bread,Chocolate,Snacks,12000,"Kue pisang lembut yang terbuat dari pisang asli, tepung, telur, dan mentega, dengan taburan cokelat chips"
+14,Banana Bread,Original,Snacks,12000,"Kue pisang lembut yang terbuat dari pisang asli, tepung, telur, dan mentega, dengan rasa original"
+15,Basic Latte,Hot Arabica,Coffee,23000,"Minuman klasik dengan 1 shot espresso dari biji kopi Arabica, susu steamed, dan lapisan microfoam yang tipis"
+16,Basic Latte,Ice Houseblend,Coffee,23000,"Minuman klasik dengan 1 shot espresso dari biji kopi Houseblend, susu dingin, dan es batu"
+17,Basic Latte,Hot Houseblend,Coffee,23000,"Minuman klasik dengan 1 shot espresso dari biji kopi Houseblend, susu steamed, dan lapisan microfoam yang tipis"
+18,Basic Latte,Ice Arabica,Coffee,23000,"Minuman klasik dengan 1 shot espresso dari biji kopi Arabica, susu dingin, dan es batu"
+19,Berry Cake,-,Other,24000,Minuman manis asam segar terinspirasi dari kue lembut dengan lapisan krim dan campuran berry
+20,Biru,-,Coffee,24000,"Minuman menyegarkan berwarna biru cerah dengan perpaduan lemon dan sedikit soda, memberikan sensasi segar seperti langit musim panas"
+21,Biru (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar menyegarkan berwarna biru cerah dengan perpaduan lemon dan sedikit soda, memberikan sensasi segar seperti langit musim panas"
+22,Black Rice,Ice,Other,23000,"Minuman manis gurih terinspirasi dari ketan hitam tradisional, disajikan dengan es yang memiliki tekstur lembut dan sedikit creamy"
+23,Black Rice,Hot,Other,23000,"Minuman manis gurih terinspirasi dari ketan hitam tradisional, disajikan secara panas dengan tekstur lembut dan sedikit creamy"
+24,Burnt Sugar,-,Snacks,12000,"Kue donat klasik dengan lapisan gula yang dibakar di atasnya (creme brulee style), memberikan tekstur renyah dan rasa manis pahit"
+25,Butterscotch,-,Coffee,23000,Minuman perpaduan espresso dan susu dengan sentuhan manis lembut dari sirup butterscotch yang menghadirkan sensasi karamel hangat
+26,Butterscotch Latte (Gedhe),-,Menu Gedhe,30000,Minuman ukuran besar dari perpaduan espresso dan susu dengan sentuhan manis lembut dari sirup butterscotch yang menghadirkan sensasi karamel hangat
+27,Candy Latte,-,Coffee,23000,"Minuman latte dengan sentuhan manis seperti permen, memadukan espresso dan susu dengan rasa permen nostalgia masa kecil"
+28,Candy Latte (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari latte dengan sentuhan manis seperti permen, memadukan espresso dan susu dengan rasa permen nostalgia masa kecil"
+29,Cappuccino,Hot Houseblend,Coffee,22000,"Minuman dengan komposisi 1:1:1 antara espresso dari biji kopi Houseblend, susu steamed, dan busa susu (foam) yang tebal di atasnya"
+30,Cappuccino,Hot Arabica,Coffee,22000,"Minuman dengan komposisi 1:1:1 antara espresso dari biji kopi Arabica, susu steamed, dan busa susu (foam) yang tebal di atasnya"
+31,Cappuccino,Ice Houseblend,Coffee,22000,"Minuman dengan komposisi 1:1:1 antara espresso dari biji kopi Housebland, susu dingin dengan es batu, dan busa susu (foam) yang tebal di atasnya"
+32,Cappuccino,Ice Arabica,Coffee,22000,"Minuman dengan komposisi 1:1:1 antara espresso dari biji kopi Arabica, susu dingin dengan es batu, dan busa susu (foam) yang tebal di atasnya"
+33,Chamomile,-,Tea,20000,Minuman panas teh herbal dari bunga chamomile kering yang memberikan efek menenangkan dengan aroma lembut dan rasa ringan
+34,Chocolate,Hot,Other,25000,Minuman cokelat klasik dengan campuran kakao berkualitas dan susu steamed yang creamy
+35,Chocolate,Ice,Other,25000,"Minuman cokelat klasik dengan campuran kakao berkualitas, susu dingin dan es batu yang creamy"
+36,Cold Brew,-,Coffee,24000,"Kopi hasil seduhan dingin selama beberapa jam untuk rasa lebih halus, rendah asam, dan segar"
+37,Chocolate (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari cokelat klasik dengan campuran kakao berkualitas, susu dingin dan es batu yang creamy"
+38,Creamy Klepon,-,Other,24000,"Minuman manis terinspirasi dari rasa klepon khas Indonesia, memadukan pandan, gula merah, dan susu lembut"
+39,Donat Polos,-,Snacks,10000,Kue donat klasik tanpa topping yang memberikan tekstur empuk dan ringan
+40,Espresso Arabica,On The Rock,Coffee,12000,"Espresso dengan 100% biji Arabica yang dituangkan di atas es batu di dalam gelas, menghasilkan ekstraksi kopi dengan cita rasa lebih halus dan aromatik"
+41,Espresso Arabica,Basic Espresso,Coffee,12000,Espresso dengan 100% biji Arabica yang menghasilkan ekstraksi kopi dengan cita rasa lebih halus dan aromatik
+42,Espresso Houseblend,On The Rock,Coffee,12000,"Espresso dengan pilihan biji Houseblend yang dituangkan di atas es batu di dalam gelas, menghasilkan ekstraksi kopi dengan cita rasa nutty dan aromatik"
+43,Espresso Houseblend,Basic Espresso,Coffee,12000,Espresso dengan pilihan biji Houseblend yang menghasilkan ekstraksi kopi dengan cita rasa nutty dan aromatik
+44,Extra Shot,Houseblend,Add on,6000,Tambahan 1 shot espresso dari pilihan biji Houseblend untuk cita rasa kopi yang lebih kuat di minuman
+45,Extra Shot,Arabica,Add on,7000,Tambahan 1 shot espresso dari pilihan biji 100% Arabica untuk cita rasa kopi yang lebih kuat di minuman
+46,Forbidden Berry,-,Other,24000,Minuman manis segar dengan perpaduan rahasia antara susu dingin dan berbagai buah beri yang menghasilkan sensasi manis-asam yang intens
+47,Friendly Coffee,Hot double shot,Coffee,23000,"Minuman kopi susu dengan perpaduan double shot espresso, susu steamed dan gula aren dengan cita rasa kopi yang lebih kuat"
+48,Friendly Coffee,Ice double shot,Coffee,23000,"Minuman kopi susu dengan perpaduan double shot espresso, susu dingin, es batu dan gula aren dengan cita rasa kopi yang lebih kuat"
+49,Friendly Coffee,Hot,Coffee,23000,"Minuman kopi susu dengan perpaduan single shot espresso, susu steamed dan gula aren yang cocok untuk semua penikmat kopi"
+50,Friendly Coffee,Ice,Coffee,23000,"Minuman kopi susu dengan perpaduan single shot espresso, susu dingin, es batu dan gula aren yang cocok untuk semua penikmat kopi"
+51,Friendly Coffee (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari kopi susu dengan perpaduan double shot espresso, susu dingin, es batu dan gula aren yang cocok untuk semua penikmat kopi"
+52,Green Apple,-,Tea,21000,Minuman dingin bersoda yang menyegarkan dengan rasa apel hijau asam-manis yang berasal dari sirup green apple
+53,Green Thai Tea,-,Tea,21000,"Minuman teh hijau ala Thailand yang dipadukan dengan susu dingin, es batu, dan susu kental manis yang menghadirkan rasa lembut dan sedikit rempah"
+54,Green Thai Tea (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar teh hijau ala Thailand yang dipadukan dengan susu dingin, es batu, dan susu kental manis yang menghadirkan rasa lembut dan sedikit rempah"
+55,Gula Gula,-,Snacks,12000,"Kue donat klasik dengan topping gula putih yang memberikan tekstur lembut, empuk dan ringan"
+56,Happy Moca,Hot,Coffee,30000,"Minuman campuran espresso, coklat bubuk, dan susu steamed yang memberi rasa creamy, manis dan sedikit rasa pahit"
+57,Happy Moca,Ice,Coffee,30000,"Minuman campuran espresso, coklat bubuk, susu dingin dan es batu yang memberi rasa creamy, manis dan sedikit rasa pahit"
+58,Hazelnut Latte,-,Coffee,23000,"Minuman latte dari perpaduan lembut susu dingin, espresso, dan sirup hazelnut yang memberikan aroma kacang hazelnut yang manis"
+59,Hazelnut Latte (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar latte dari perpaduan lembut susu dingin, espresso, dan sirup hazelnut yang memberikan aroma kacang hazelnut yang manis"
+60,Jasmine,Ice,Tea,21000,Minuman dingin teh herbal dari bunga jasmine kering yang memberikan aroma lembut dan rasa relaks
+61,Jasmine,Hot,Tea,21000,Minuman panas teh herbal dari bunga jasmine kering yang memberikan aroma lembut dan rasa relaks
+62,Jus Semangka,-,Other,22000,Minuman jus segar dari potongan semangka asli tanpa tambahan pemanis buatan yang dibuat dengan proses cold pressed
+63,Lemon Tea,Hot,Tea,21000,Minuman panas teh hitam dengan perasan buah lemon yang menyegarkan dan sedikit asam
+64,Lemon Tea,Ice,Tea,21000,Minuman dingin teh hitam dengan perasan buah lemon yang menyegarkan dan sedikit asam
+65,Lemons,-,Other,20000,Minuman dingin soda lemon segar dengan rasa masam ringan dan aroma citrus yang kuat
+66,Matcha Espresso,-,Coffee,25000,"Minuman perpaduan antara matcha, espresso, susu dingin dan es batu yang memberi keseimbangan rasa teh hijau dan pahit yang unik"
+67,Matcha Latte,Ice,Other,24000,"Minuman latte perpaduan matcha Jepang dengan susu dingin, dan es batu yang menghasilkan rasa earthy dan creamy"
+68,Matcha Latte,Hot,Other,24000,Minuman latte perpaduan matcha Jepang dengan susu steamed yang menghasilkan rasa earthy dan creamy
+69,Matcha Latte (Gedhe),-,Menu Gedhe,30000,"Minuman latte ukuran besar dari perpaduan matcha Jepang dengan susu dingin, dan es batu yang menghasilkan rasa earthy dan creamy"
+70,Matchapresso,-,Coffee,25000,"Minuman perpaduan antara matcha, espresso, susu dingin dan es batu yang memberi keseimbangan rasa teh hijau dan pahit yang unik"
+71,Matchapresso (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari perpaduan antara matcha, espresso, susu dingin dan es batu yang memberi keseimbangan rasa teh hijau dan pahit yang unik"
+72,Moody,-,Tea,23000,"Minuman dingin dari perpaduan teh hitam, jus citrus, dan es batu yang memberikan efek segar dan ceria"
+73,Nostaltea,-,Tea,15000,Minuman dingin teh hitam yang dipadukan dengan gula aren yang membangkitkan kenangan masa lalu
+74,Not Tiramisu Latte,-,Coffee,24000,"Minuman latte perpaduan espresso, susu dingin, es batu dan sirup tiramisu tanpa alkohol yang menghadirkan kesan kue dessert tiramisu"
+75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,30000,"Minuman latte ukuran besar dari perpaduan espresso, susu dingin, es batu dan sirup tiramisu tanpa alkohol yang menghadirkan kesan kue dessert tiramisu"
+76,Nutella Meses,-,Snacks,12000,Minuman cokelat dengan campuran Nutella dan taburan meses yang menciptakan rasa manis khas.
+77,Red Apple,-,Tea,21000,Minuman dingin bersoda yang menyegarkan dengan rasa apel merah asam-manis yang berasal dari sirup red apple
+78,Red Liquid,-,Other,23000,"Minuman dingin perpaduan sirup strawbery dan delima, susu dingin, es batu dengan rasa asam segar"
+79,Shakencano,-,Coffee,21000,"Minuman dingin perpaduan espresso dan gula aren yang dikocok dengan es batu, menghasilkan kopi dingin berbuih dengan rasa pahit, manis dan segar"
+80,Sitrus Cafe,-,Coffee,24000,"Minuman dingin unik perpaduan antara espresso dan jus citrus, memberikan keseimbangan rasa segar asam dan pahit"
+81,Soft Tea,-,Tea,18000,Minuman dingin teh manis ringan dengan aroma lembut yang menyegarkan
+82,Summer,-,Tea,23000,Minuman dingin bersoda dengan perpaduan sirup buah tropis segar yang menghadirkan rasa manis dan sedikit asam
+83,Sunset,-,Other,23000,"Minuman dingin dari perpaduan teh hitam, sirup strawberry, jus citrus, dan es batu yang menyegarkan"
+84,Susu Oat,-,Add on,10000,Tambahan susu alternatif berbahan dasar oat dengan rasa lembut dan sedikit gurih
+85,Thai Tea,-,Tea,21000,"Minuman teh hitam ala Thailand yang dipadukan dengan susu dingin, es batu, dan susu kental manis yang menghadirkan rasa lembut dan sedikit rempah"
+86,Thai Tea (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar dari teh hitam ala Thailand yang dipadukan dengan susu dingin, es batu, dan susu kental manis yang menghadirkan rasa lembut dan sedikit rempah"
+87,Upgrade Beans (Arabica),-,Add on,4000,"Tambahan pilihan untuk mengganti biji kopi Houseblend menjadi 100% Arabika yang lebih halus, sedikit asam dan aromatik"
+88,Vanilla Latte,-,Coffee,23000,"Minuman latte dari perpaduan lembut susu dingin, espresso, dan sirup vanilla yang memberikan aroma manis"
+89,Vanilla Latte (Gedhe),-,Menu Gedhe,30000,"Minuman ukuran besar latte dari perpaduan lembut susu dingin, espresso, dan sirup vanilla yang memberikan aroma manis"
+90,WHITE,-,Menu Gedhe,30000,Minuman dingin kopi susu ringan dengan perpaduan espresso lembut dan susu dingin creamy khas signature kafe
+91,WHITE,Houseblend,Menu Gedhe,30000,Minuman dingin kopi susu ringan dengan perpaduan espresso dari biji kopi Housblend yang nutty dan susu dingin creamy khas signature kafe
+92,WHITE,Arabica,Menu Gedhe,30000,Minuman dingin kopi susu ringan dengan perpaduan espresso dari biji kopi 100% Arabica yang aromatik dan susu dingin creamy khas signature kafe
+93,Croffle,-,Snacks,28000,"Kue croissant dipanggang di waffle iron, renyah di luar, lembut di dalam"
+94,Creamy Chocolate Cake,-,Other,30000,Kue cokelat lembut bertekstur krim (mousse-style) dengan lapisan ganache yang manis dan lembut
+95,Waffle,-,Snacks,25000,"Kue waffle panas, tekstur renyah di luar dan empuk di dalam, dapat diberi topping gula putih ataupun susu kental manis coklat"
+96,Pisang Coklat,-,Snacks,22000,Kue pisang yang dilapisi kulit renyah yang goreng dengan isi topping cokelat yang mirip dengan pisang karamel (1 porsi isi 2)
