@@ -106,7 +106,8 @@ class HybridRecommender:
         cbf_arr = self._run_cbf(cart_pids)   # aligned to self.all_pids
 
         # ── 4. Layer 1+2 combined ──────────────────────────────────────
-        layer12 = (ncf_arr + cbf_arr) / 2.0
+        """layer12 = (ncf_arr + cbf_arr) / 2.0"""
+        layer12 = cbf_arr
 
         # ── 5. Layer 3 – Bayesian average ─────────────────────────────
         ba_arr = np.array(
