@@ -7,10 +7,10 @@ Each anonymous transaction is treated as a data point with:
   M = TotalAmount (total spend)
 
 KMeans (N=4) is trained once and the cluster centroids are mapped to semantic labels:
-  Cluster 0 → Lost Customer      (a=0.8, b=0.2)
-  Cluster 1 → New Customer       (a=0.2, b=0.8)
   Cluster 2 → Loyal Customer     (a=0.5, b=0.5)
-  Cluster 3 → At Risk Customer   (a=0.6, b=0.4)
+  Cluster 1 → New Customer       (a=0.6, b=0.4)
+  Cluster 3 → At Risk Customer   (a=0.7, b=0.3)
+  Cluster 0 → Lost Customer      (a=0.8, b=0.2)
 
 At inference the cart's (F, M) is used as a pseudo-RFM profile (R=0, just purchasing)
 and assigned to the nearest cluster centroid.
@@ -27,9 +27,9 @@ MODELS_DIR = Path(__file__).parent.parent / "models"
 
 # Weights keyed by semantic label
 SEGMENT_WEIGHTS: dict[str, dict] = {
-    "New Customer":      {"a": 0.2, "b": 0.8},
     "Loyal Customer":    {"a": 0.5, "b": 0.5},
-    "At Risk Customer":  {"a": 0.6, "b": 0.4},
+    "New Customer":      {"a": 0.6, "b": 0.4},
+    "At Risk Customer":  {"a": 0.7, "b": 0.3},
     "Lost Customer":     {"a": 0.8, "b": 0.2},
 }
 
